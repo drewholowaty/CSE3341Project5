@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="214a0a1c-417b-4f9f-a666-4181736a6d09" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cmpr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Core.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Decl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeclInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeclRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeclSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Expr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Formals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuncDecl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IdList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stmt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StmtSeq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tester.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BfexnEbLUBfRmRz03X9scBBvRl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Project5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="214a0a1c-417b-4f9f-a666-4181736a6d09" name="Changes" comment="" />
+      <created>1657301816904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657301816904</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
